@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:87CEEB,100:90EE90&text=PwnCrypt%20Ransomware%20Threat%20Hunt&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:87CEEB,100:90EE90&text=Ransomware%20Threat%20Hunt&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+# Zero-Day PwnCrypt Ransomware Threat Hunt
 
 ### Microsoft Defender for Endpoint | Advanced Hunting | KQL | MITRE ATT&CK
 
@@ -17,7 +19,27 @@
 
 This project documents a threat hunt performed in Microsoft Defender for Endpoint during a simulated zero-day ransomware scenario involving PwnCrypt.
 
-This threat hunt scenario was created by Josh Madakor, CEO of The Cyber Range.
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<h3>🛡️ Cyber Range Scenario Credit 🛡️</h3>
+
+<strong>This threat hunt scenario was provided by Josh Madakor, CEO of The Cyber Range.</strong>
+
+<br><br>
+
+<a href="https://www.skool.com/cyber-range">
+  <img src="https://img.shields.io/badge/Join%20The%20Cyber%20Range-Click%20Here-90EE90?style=for-the-badge&logo=skool&logoColor=black&labelColor=87CEEB" alt="Join The Cyber Range">
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 The investigation focused on identifying ransomware-style file activity, suspicious PowerShell execution, script behavior, affected files, device scope, network activity, Defender telemetry, and MITRE ATT&CK mappings.
 

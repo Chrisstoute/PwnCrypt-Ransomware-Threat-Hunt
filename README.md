@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:87CEEB,100:90EE90&text=PwnCrypt%20Ransomware%20Threat%20Hunt&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-# Zero-Day PwnCrypt Ransomware Threat Hunt
-
 ### Microsoft Defender for Endpoint | Advanced Hunting | KQL | MITRE ATT&CK
 
 ![Platform](https://img.shields.io/badge/Platform-Microsoft%20Defender%20for%20Endpoint-87CEEB?style=for-the-badge)

@@ -32,7 +32,7 @@ This project documents a threat hunt performed in Microsoft Defender for Endpoin
 <br><br>
 
 <a href="https://www.skool.com/cyber-range">
-  <img src="https://img.shields.io/badge/Join%20The%20Cyber%20Range-Click%20Here-90EE90?style=for-the-badge&logo=skool&logoColor=black&labelColor=87CEEB" alt="Join The Cyber Range">
+  <img src="https://img.shields.io/badge/JOIN%20THE%20CYBER%20RANGE-CLICK%20HERE-red?style=for-the-badge&labelColor=000000&color=ff0000" alt="Join The Cyber Range">
 </a>
 
 </td>
